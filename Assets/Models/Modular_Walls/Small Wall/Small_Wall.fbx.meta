@@ -1,31 +1,14 @@
 fileFormatVersion: 2
-guid: 2e1110d826dacb849a6744a4f977b842
+guid: 63654a2f6d194d44597dd18150adfd40
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Box008
-    100002: Object004
-    100004: Object005
-    100006: Object006
-    100008: //RootNode
-    400000: Box008
-    400002: Object004
-    400004: Object005
-    400006: Object006
-    400008: //RootNode
-    2100000: lambert1
-    2300000: Box008
-    2300002: Object004
-    2300004: Object005
-    2300006: Object006
-    3300000: Box008
-    3300002: Object004
-    3300004: Object005
-    3300006: Object006
-    4300000: Object006
-    4300002: Box008
-    4300004: Object005
-    4300006: Object004
+    100000: //RootNode
+    400000: //RootNode
+    2100000: lambert2
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Small_Wall
   externalObjects: {}
   materials:
     importMaterials: 1

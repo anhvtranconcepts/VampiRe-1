@@ -1,34 +1,57 @@
 fileFormatVersion: 2
-guid: e6874119828d1c2449ff65810cde3576
+guid: f0940a835876978479120cc50591350a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Box008
-    100002: Object004
-    100004: Object005
-    100006: Object006
-    100008: //RootNode
-    400000: Box008
-    400002: Object004
-    400004: Object005
-    400006: Object006
-    400008: //RootNode
-    2100000: lambert1
-    2300000: Box008
-    2300002: Object004
-    2300004: Object005
-    2300006: Object006
-    3300000: Box008
-    3300002: Object004
-    3300004: Object005
-    3300006: Object006
-    4300000: Object006
-    4300002: Box008
-    4300004: Object005
-    4300006: Object004
+    100000: polySurface1
+    100002: polySurface2
+    100004: polySurface3
+    100006: polySurface4
+    100008: polySurface5
+    100010: polySurface6
+    100012: polySurface7
+    100014: polySurface8
+    100016: polySurface8 1
+    100018: transform1
+    100020: transform2
+    100022: transform3
+    100024: transform4
+    100026: transform5
+    100028: transform6
+    100030: transform7
+    100032: transform8
+    100034: //RootNode
+    100036: Wall_Lambert:polySurface2
+    400000: polySurface1
+    400002: polySurface2
+    400004: polySurface3
+    400006: polySurface4
+    400008: polySurface5
+    400010: polySurface6
+    400012: polySurface7
+    400014: polySurface8
+    400016: polySurface8 1
+    400018: transform1
+    400020: transform2
+    400022: transform3
+    400024: transform4
+    400026: transform5
+    400028: transform6
+    400030: transform7
+    400032: transform8
+    400034: //RootNode
+    400036: Wall_Lambert:polySurface2
+    2100000: lambert2
+    2100002: lambert1
+    2300000: polySurface8
+    2300002: //RootNode
+    3300000: polySurface8
+    3300002: //RootNode
+    4300000: polySurface8
+    4300002: Wall_LOD0
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -65,7 +88,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
